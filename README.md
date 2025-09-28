@@ -1,5 +1,8 @@
 ```markdown
-<h1 align="center">Hi 👋, I'm Nabil</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nabil;A+Passionate+DevOps+Engineer;From+Bangladesh+🇧🇩;Always+Learning+Cloud+%26+DevSecOps" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">🚀 A Passionate DevOps Engineer from Bangladesh</h3>
 
 ---
@@ -54,5 +57,12 @@
   <img src="https://img.shields.io/badge/Docker-Expert-blue?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-Intermediate-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-Lover-black?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+---
+
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nabil34&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 ```
