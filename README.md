@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
 <h3 align="center">A passionate Devops Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Technotext**
+- 🔭 I’m currently working in **Technotext**
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Grafana, GitLab**
 
