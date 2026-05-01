@@ -1,5 +1,9 @@
+<!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">A passionate DevSecOps & Cloud Engineer from Bangladesh</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Cloud+%7C+Security+%7C+Automation;Kubernetes+%7C+CI%2FCD+%7C+Vault;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nabil720&label=Profile%20views&color=0e75b6&style=flat" />
@@ -7,81 +11,60 @@
 
 ---
 
+<!-- ================= ABOUT ================= -->
 ### 👨‍💻 About Me
 
-- 🔭 Jr. DevOps Engineer at **Technonext Software Limited**
-- 🛡️ DevSecOps | Infrastructure Security | Container Security
-- 🌱 Learning: Kubernetes, Vault, Elastic APM, GitLab CI/CD
-- 🏆 Codeforces Rating **1182** (700+ problems solved)
-- 🎓 CSE — MIST, Dhaka
-- 📫 **nabilfaruk6@gmail.com**
+- 🔭 **Jr. DevOps Engineer** @ Technonext Software Limited  
+- 🛡️ Focus: **DevSecOps | Cloud Security | Container Security**  
+- ⚙️ Daily tools: Kubernetes, Docker, GitLab CI/CD, Nginx  
+- 🌱 Learning deeply: Vault, Observability, Production Security  
+- 🧠 Problem Solver: **700+ problems (Codeforces 1182)**  
+- 🎯 Goal: **Cloud Security / DevSecOps Engineer (Global Role)**  
 
 ---
 
-### 🔗 Connect with Me
+<!-- ================= CONNECT ================= -->
+### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/istiaque-nabil/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/istiaque-nabil/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
-  <a href="https://github.com/Nabil720" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="30"/>
+  <a href="https://github.com/Nabil720">
+    <img src="https://skillicons.dev/icons?i=github" height="35"/>
   </a>
   <a href="mailto:nabilfaruk6@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+<!-- ================= TECH STACK ================= -->
+### ⚡ Tech Stack
 
-#### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gitlab,git,nginx,vagrant" />
-</p>
-
-#### 📊 Monitoring
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-</p>
-
-#### 🛡️ Security
-<p>
-  <img src="https://skillicons.dev/icons?i=vault" />
-</p>
-
-#### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-#### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux" />
-</p>
-
-#### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,flutter" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gitlab,git,nginx,vagrant,grafana,prometheus,vault,mongodb,mysql,python,c,cpp,linux" />
 </p>
 
 ---
 
+<!-- ================= STATS ================= -->
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nabil720&show_icons=true&theme=tokyonight" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil720&layout=compact&theme=tokyonight" width="32%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil720&theme=tokyonight" width="32%" />
 </p>
 
 ---
 
+<!-- ================= TROPHIES ================= -->
 ### 🏆 Achievements
 
 - 🥇 4th Place — MIST CyberTron 2025  
-- 🏅 18th Place — Inter-University CTF 2023 (BUET)  
-- ✅ TryHackMe Jr. Penetration Tester + Web Fundamentals  
-- 💻 Codeforces 1182 Rating (700+ solved)  
-- 🤖 6th Place — Soccer Bot (Chittagong Science Carnival 2022)
+- 🏅 18th Place — Inter-University CTF (BUET)  
+- 🛡️ TryHackMe Jr. Penetration Tester  
+- 💻 Codeforces (1182 rating, 700+ solved)  
+- 🤖 6th Place — Soccer Bot Competition  
+
+---
